@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: "Playfair Display", serif;
+}
+
+body {
+  width: 100%;
+}
+
+h1 {
+  font-size: 3.2rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+label {
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+select {
+  padding: 0.5rem;
+  font-family: inherit;
+  font-size: 1.8rem;
+}
+
+option {
+  font-family: inherit;
+}
+
+button {
+  font-size: 1.8rem;
+  padding: 1rem;
+  border-radius: 0.8rem;
+  background-color: rgb(4, 59, 131);
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
